@@ -1,8 +1,8 @@
 {
-  "name": "back-2",
+  "name": "fullstack-backend",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "A fullstack backend for the fullstack-frontend",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -23,7 +23,7 @@
     "strapi-plugin-io": "^1.1.0"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "wfpaisa"
   },
   "strapi": {
     "uuid": "bfe11261-6289-4f93-98e0-04556f383680"
